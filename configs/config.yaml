@@ -1,0 +1,5 @@
+environment: dev
+dev:
+  sampledb:
+    url: http://sampledb.test.ru
+    timeout: 3s
